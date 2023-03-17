@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/SggdDGu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is an example of assignment and communication. This particular issue was assigned to agent Jane Doe with an emergency ticketing priority. Any real emergency issue, such as this, is top priority and must resolved as soon as possible. Also being shown is the back and forth communication between
+Here is an example of assignment and communication. This particular issue was assigned to agent Jane Doe with an emergency ticketing priority. Any major issue, such as this, is top priority and must resolved as soon as possible. Also being shown is the back and forth communication between
 all persons working to find a resolve of the problem.
 </p>
 <br />
